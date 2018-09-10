@@ -12,7 +12,7 @@
 		}
 	},
 	"4":{
-		 "confirm":"Have you been to Kyoto?"
+		 "confirm":"Have you been to Kyoto?",
 		 "case":{
 				"yes":"Oh,there are many beautiful place,aren't it?",
 				"no":"me too.",
