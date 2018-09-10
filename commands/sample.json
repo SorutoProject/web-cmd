@@ -1,0 +1,22 @@
+{
+	"name":"sample",
+	"1":{
+		"message":"Hello World."
+	},
+	"2"{
+		"message":"Could you tell me the way to the station?"
+	}
+	"3"{
+		"ask":{
+				"message":"$A$. yes,thank you."
+		}
+	},
+	"4":{
+		 "confirm":"Have you been to Kyoto?"
+		 "case":{
+				"yes":"Oh,there are many beautiful place,aren't it?",
+				"no":"me too.",
+				"else":"OOPS!!"
+			}
+	}
+}
